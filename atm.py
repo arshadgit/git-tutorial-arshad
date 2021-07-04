@@ -1,5 +1,5 @@
-pin=5432
-balance=100000
+pin=4321
+balance=1000
 print("Welcome to ARSHAD ATM")
 pin=int(input("Enter your pin"))
 if(pin==pin):
